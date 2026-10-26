@@ -32,3 +32,7 @@ This project helped me practice data visualization, dashboard development, data 
 Gayatri Bogar
 
 GitHub: https://github.com/GayatriBogar
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR-Dashboard-Overview.png)
